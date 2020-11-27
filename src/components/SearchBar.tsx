@@ -1,4 +1,4 @@
-import React, { ChangeEvent, FormEvent, SyntheticEvent, useEffect, useReducer } from "react";
+import React, { FormEvent, SyntheticEvent, useEffect, useReducer } from "react";
 import { Form } from "react-bootstrap";
 import { TStatus } from "../routes/Home";
 
